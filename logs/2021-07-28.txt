@@ -1,0 +1,200 @@
+[28-Jul-2021 05:46:46 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:46:46 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:46:48 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:46:49 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:46:50 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/css/mater...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:46:51 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:30 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:31 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:31 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:31 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:31 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:32 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:51:33 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:52:52 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:52:53 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/css/mater...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:52:54 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:52:54 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:09 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:09 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:09 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:54:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:02 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:02 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:02 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:02 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:02 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:04 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:04 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/css/mater...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:05 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:55:07 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/css/mater...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:56:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:56:26 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:56:36 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('home')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:56:36 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:56:42 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:57:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('index.html')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:57:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:58:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 05:58:29 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 16:33:47 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 16:42:06 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 16:42:07 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 16:45:20 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 16:45:24 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('css/materialize...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[28-Jul-2021 17:15:24 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
