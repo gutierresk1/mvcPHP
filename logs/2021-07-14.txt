@@ -1,0 +1,16 @@
+[14-Jul-2021 03:18:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[14-Jul-2021 03:18:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[14-Jul-2021 03:18:10 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[14-Jul-2021 03:18:15 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225

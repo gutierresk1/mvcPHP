@@ -1,0 +1,7 @@
+# .htaccess files set server configurationas to the directoy. Pretty look!
+# Remove index.php from the request but maintains the query string
+RewriteEngine On 
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?$1 [L,QSA]

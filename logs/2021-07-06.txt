@@ -1,0 +1,46 @@
+[06-Jul-2021 05:31:16 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('products/')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 223
+[06-Jul-2021 05:49:04 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 05:49:34 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 05:59:38 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('products/')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 05:59:39 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('products/')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 06:00:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('products/')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 06:00:03 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 06:00:05 UTC] Uncaught exception: 'Exception' with message 'Method newAction not found in controller App\Controllers\Posts'
+Stack trace: #0 /Applications/AMPPS/www/Core/Router.php(213): Core\Controller->__call('new', Array)
+#1 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/new')
+#2 {main}
+Thrown in /Applications/AMPPS/www/Core/Controller.php' on line 47
+[06-Jul-2021 06:00:05 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
+[06-Jul-2021 06:00:05 UTC] Uncaught exception: 'Exception' with message 'Method neeAction not found in controller App\Controllers\Posts'
+Stack trace: #0 /Applications/AMPPS/www/Core/Router.php(213): Core\Controller->__call('nee', Array)
+#1 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('posts/nee')
+#2 {main}
+Thrown in /Applications/AMPPS/www/Core/Controller.php' on line 47
+[06-Jul-2021 06:00:05 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/AMPPS/www/public/index.php(44): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in /Applications/AMPPS/www/Core/Router.php' on line 225
